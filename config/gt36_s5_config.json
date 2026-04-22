@@ -1,0 +1,7 @@
+{
+  "random_seed": 42,
+  "n_iterations": 50000,
+  "sampling_method": "random",
+  "inputs": [],
+  "outputs": []
+}
