@@ -37,3 +37,14 @@ htmlcov/
 
 # mypy
 .mypy_cache/
+
+# Generated reports and plots
+*.xlsx
+*.png
+*.egg-info/
+temp_hist.png
+gt36_s5_config_report.xlsx
+gt36_s5_config_report_hist.png
+gt36_s5_config_full_report.xlsx
+gt36_s5_config_full_hist.png
+gt36_s5_config_full_tornado.png
